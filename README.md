@@ -1,5 +1,5 @@
 # reading-shortlist
-A curated shortlist of media that are landmark, interesting, and or well-written, in no particular order. 
+A curated shortlist of media that are landmark, interesting, and or well-written, in no particular order. Files that are readily available are kept here for convenience and archiving. 
 
 # Table of Contents
 1. [Architecture](#architecture)
@@ -10,9 +10,14 @@ A curated shortlist of media that are landmark, interesting, and or well-written
 
 ## Architecture
 - [Why Systolic Architectures?](https://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf)
+- [Rename-free Instruction Set Architecture](https://dl.acm.org/doi/pdf/10.1145/3613424.3614272)
+- [A case for (partially) TAgged GEometric history length branch prediction](https://jilp.org/vol8/v8paper1.pdf)
 
 ## Compilers
 - [Reflectins on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
+- [Pin: Building Customized Program Analysis Tools with Dynamic Instrumentation](https://dl.acm.org/doi/pdf/10.1145/1065010.1065034)
+- [Valgrind: A Framework for Heavyweight Dynamic Binary Instrumentation](https://dl.acm.org/doi/pdf/10.1145/1250734.1250746)
+- [Efficiently Computing Static Single Assignment Form and the Control Dependence Graph](https://www.cs.utexas.edu/~pingali/CS380C/2010/papers/ssaCytron.pdf)
 
 ## Cryptography
 - [A Fully Homomorphic Encryption Scheme](https://crypto.stanford.edu/craig/craig-thesis.pdf)
